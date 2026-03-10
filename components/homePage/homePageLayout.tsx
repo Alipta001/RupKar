@@ -18,8 +18,6 @@ export default function HomePageLayout() {
         <BrandSpotlight />
         <ProductGrid />
       </div>
-      
-      <Footer />
     </div>
   )
 }
